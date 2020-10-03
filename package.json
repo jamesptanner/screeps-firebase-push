@@ -1,0 +1,17 @@
+{
+  "name": "screep-firebase-push",
+  "version": "0.1.0",
+  "description": "Screeps module that pushes notifications to a firebase application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "screeps"
+  ],
+  "author": "James Tanner",
+  "license": "MIT",
+  "dependencies": {
+    "firebase": "^7.22.0"
+  }
+}
